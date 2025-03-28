@@ -1,0 +1,36 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore .NET Core project files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore user-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Ignore IDE and editor folders
+*.idea/
+*.vscode/
+
+
+codealike.json
